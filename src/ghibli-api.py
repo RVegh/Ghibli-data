@@ -6,7 +6,7 @@ url = 'https://ghibliapi.herokuapp.com/films'
 r = requests.get(url)
 json = r.json()
 
-films = pd.DataFrame(json).head()
+films = pd.DataFrame(json)
 
 print(films)
 
