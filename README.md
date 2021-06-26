@@ -1,1 +1,2 @@
-# Ghibi-data
+# Extraindo e analisando os dados sobre os filmes do Studio Ghibli
+Este breve estudo tem como  objetivo analisar os dados relacionados as produções do Studio Ghibli como forma de praticar e aperfeiçar alguns conhecimentos básicos em Python.
